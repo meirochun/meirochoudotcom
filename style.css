@@ -16,10 +16,18 @@ img {
     width: 45%;
 }
 
-.counterSection {
-    padding-top: 10px;
-    text-align: center;
+.counterImage {
+    margin-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5rem;
+    cursor: default;
+}
+
+p {
     font-family: "Comic Sans MS";
+    text-align: center;
     font-size: 15px;
     color: #FFFFFF;
 }
